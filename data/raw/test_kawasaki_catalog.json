@@ -1,0 +1,636 @@
+{
+    "Ninja": [
+        {
+            "name": "ninja-500 2025",
+            "base_model": "ninja-500",
+            "year": "2025",
+            "edition": "ninja-500",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500"
+        },
+        {
+            "name": "ninja-500 2025",
+            "base_model": "ninja-500",
+            "year": "2025",
+            "edition": "ninja-500-krt-edition",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500-krt-edition",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500-krt-edition"
+        },
+        {
+            "name": "ninja-500 2025",
+            "base_model": "ninja-500",
+            "year": "2025",
+            "edition": "ninja-500-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500-se-abs",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500-se-abs"
+        },
+        {
+            "name": "ninja-500 2025",
+            "base_model": "ninja-500",
+            "year": "2025",
+            "edition": "ninja-500-se-krt-edition-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500-se-krt-edition-abs",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-500/2025-ninja-500-se-krt-edition-abs"
+        },
+        {
+            "name": "ninja-500 2024",
+            "base_model": "ninja-500",
+            "year": "2024",
+            "edition": "ninja-500-se-40th-anniversary-edition-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-500/2024-ninja-500-se-40th-anniversary-edition-abs",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-500/2024-ninja-500-se-40th-anniversary-edition-abs"
+        },
+        {
+            "name": "ninja-650 2025",
+            "base_model": "ninja-650",
+            "year": "2025",
+            "edition": "ninja-650",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-650/2025-ninja-650",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-650/2025-ninja-650"
+        },
+        {
+            "name": "ninja-650 2025",
+            "base_model": "ninja-650",
+            "year": "2025",
+            "edition": "ninja-650-krt-edition",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-650/2025-ninja-650-krt-edition",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-650/2025-ninja-650-krt-edition"
+        },
+        {
+            "name": "ninja-1000-abs 2024",
+            "base_model": "ninja-1000-abs",
+            "year": "2024",
+            "edition": "ninja-1000sx-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-1000-abs/2024-ninja-1000sx-abs",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-1000-abs/2024-ninja-1000sx-abs"
+        },
+        {
+            "name": "ninja-1100sx 2025",
+            "base_model": "ninja-1100sx",
+            "year": "2025",
+            "edition": "ninja-1100sx-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-1100sx/2025-ninja-1100sx-abs",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-1100sx/2025-ninja-1100sx-abs"
+        },
+        {
+            "name": "ninja-1100sx 2025",
+            "base_model": "ninja-1100sx",
+            "year": "2025",
+            "edition": "ninja-1100sx-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/sport/ninja-1100sx/2025-ninja-1100sx-se-abs",
+            "full_path": "/en-us/motorcycle/ninja/sport/ninja-1100sx/2025-ninja-1100sx-se-abs"
+        },
+        {
+            "name": "ninja-zx-4r 2025",
+            "base_model": "ninja-zx-4r",
+            "year": "2025",
+            "edition": "ninja-zx-4r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4r",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4r"
+        },
+        {
+            "name": "ninja-zx-4r 2025",
+            "base_model": "ninja-zx-4r",
+            "year": "2025",
+            "edition": "ninja-zx-4rr-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4rr-abs",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4rr-abs"
+        },
+        {
+            "name": "ninja-zx-4r 2025",
+            "base_model": "ninja-zx-4r",
+            "year": "2025",
+            "edition": "ninja-zx-4rr-krt-edition-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4rr-krt-edition-abs",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4rr-krt-edition-abs"
+        },
+        {
+            "name": "ninja-zx-4r 2024",
+            "base_model": "ninja-zx-4r",
+            "year": "2024",
+            "edition": "ninja-zx-4rr-40th-Anniversary-Edition-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2024-ninja-zx-4rr-40th-Anniversary-Edition-ABS",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-4r/2024-ninja-zx-4rr-40th-Anniversary-Edition-ABS"
+        },
+        {
+            "name": "ninja-zx-6r 2025",
+            "base_model": "ninja-zx-6r",
+            "year": "2025",
+            "edition": "ninja-zx-6r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-6r/2025-ninja-zx-6r",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-6r/2025-ninja-zx-6r"
+        },
+        {
+            "name": "ninja-zx-6r 2025",
+            "base_model": "ninja-zx-6r",
+            "year": "2025",
+            "edition": "ninja-zx-6r-krt-edition",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-6r/2025-ninja-zx-6r-krt-edition",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-6r/2025-ninja-zx-6r-krt-edition"
+        },
+        {
+            "name": "ninja-zx-6r 2024",
+            "base_model": "ninja-zx-6r",
+            "year": "2024",
+            "edition": "ninja-zx-6r-40th-Anniversary-Edition-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-6r/2024-ninja-zx-6r-40th-Anniversary-Edition-ABS",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-6r/2024-ninja-zx-6r-40th-Anniversary-Edition-ABS"
+        },
+        {
+            "name": "ninja-zx-10r 2025",
+            "base_model": "ninja-zx-10r",
+            "year": "2025",
+            "edition": "ninja-zx-10r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r"
+        },
+        {
+            "name": "ninja-zx-10r 2025",
+            "base_model": "ninja-zx-10r",
+            "year": "2025",
+            "edition": "ninja-zx-10r-krt-edition",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-krt-edition",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10r-krt-edition"
+        },
+        {
+            "name": "ninja-zx-10r 2025",
+            "base_model": "ninja-zx-10r",
+            "year": "2025",
+            "edition": "ninja-zx-10rr-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10rr-abs",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2025-ninja-zx-10rr-abs"
+        },
+        {
+            "name": "ninja-zx-10r 2024",
+            "base_model": "ninja-zx-10r",
+            "year": "2024",
+            "edition": "ninja-zx-10r-40th-Anniversary-Edition-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2024-ninja-zx-10r-40th-Anniversary-Edition-ABS",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-10r/2024-ninja-zx-10r-40th-Anniversary-Edition-ABS"
+        },
+        {
+            "name": "ninja-zx-14r 2025",
+            "base_model": "ninja-zx-14r",
+            "year": "2025",
+            "edition": "ninja-zx-14r-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-14r/2025-ninja-zx-14r-ABS",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-14r/2025-ninja-zx-14r-ABS"
+        },
+        {
+            "name": "ninja-zx-14r 2024",
+            "base_model": "ninja-zx-14r",
+            "year": "2024",
+            "edition": "ninja-zx-14r-40th-Anniversary-Edition-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/supersport/ninja-zx-14r/2024-ninja-zx-14r-40th-Anniversary-Edition-ABS",
+            "full_path": "/en-us/motorcycle/ninja/supersport/ninja-zx-14r/2024-ninja-zx-14r-40th-Anniversary-Edition-ABS"
+        },
+        {
+            "name": "ninja-h2-sx 2025",
+            "base_model": "ninja-h2-sx",
+            "year": "2025",
+            "edition": "ninja-h2-sx-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/hypersport/ninja-h2-sx/2025-ninja-h2-sx-se-abs",
+            "full_path": "/en-us/motorcycle/ninja/hypersport/ninja-h2-sx/2025-ninja-h2-sx-se-abs"
+        },
+        {
+            "name": "ninja-h2 2025",
+            "base_model": "ninja-h2",
+            "year": "2025",
+            "edition": "ninja-h2-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/hypersport/ninja-h2/2025-ninja-h2-abs",
+            "full_path": "/en-us/motorcycle/ninja/hypersport/ninja-h2/2025-ninja-h2-abs"
+        },
+        {
+            "name": "ninja-h2 2025",
+            "base_model": "ninja-h2",
+            "year": "2025",
+            "edition": "ninja-h2-carbon-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/hypersport/ninja-h2/2025-ninja-h2-carbon-abs",
+            "full_path": "/en-us/motorcycle/ninja/hypersport/ninja-h2/2025-ninja-h2-carbon-abs"
+        },
+        {
+            "name": "ninja-h2r 2025",
+            "base_model": "ninja-h2r",
+            "year": "2025",
+            "edition": "ninja-h2r-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/ninja/hypersport/ninja-h2r/2025-ninja-h2r-abs",
+            "full_path": "/en-us/motorcycle/ninja/hypersport/ninja-h2r/2025-ninja-h2r-abs"
+        }
+    ],
+    "Z": [
+        {
+            "name": "z125-pro 2025",
+            "base_model": "z125-pro",
+            "year": "2025",
+            "edition": "z125-pro",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/mini-naked/z125-pro/2025-z125-pro",
+            "full_path": "/en-us/motorcycle/z/mini-naked/z125-pro/2025-z125-pro"
+        },
+        {
+            "name": "z500 2025",
+            "base_model": "z500",
+            "year": "2025",
+            "edition": "z500-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/supernaked/z500/2025-z500-abs",
+            "full_path": "/en-us/motorcycle/z/supernaked/z500/2025-z500-abs"
+        },
+        {
+            "name": "z500 2025",
+            "base_model": "z500",
+            "year": "2025",
+            "edition": "z500-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/supernaked/z500/2025-z500-se-abs",
+            "full_path": "/en-us/motorcycle/z/supernaked/z500/2025-z500-se-abs"
+        },
+        {
+            "name": "z650 2025",
+            "base_model": "z650",
+            "year": "2025",
+            "edition": "z650",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/supernaked/z650/2025-z650",
+            "full_path": "/en-us/motorcycle/z/supernaked/z650/2025-z650"
+        },
+        {
+            "name": "z900 2025",
+            "base_model": "z900",
+            "year": "2025",
+            "edition": "z900-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/supernaked/z900/2025-z900-abs",
+            "full_path": "/en-us/motorcycle/z/supernaked/z900/2025-z900-abs"
+        },
+        {
+            "name": "z900 2025",
+            "base_model": "z900",
+            "year": "2025",
+            "edition": "z900-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/supernaked/z900/2025-z900-se-abs",
+            "full_path": "/en-us/motorcycle/z/supernaked/z900/2025-z900-se-abs"
+        },
+        {
+            "name": "z650rs 2025",
+            "base_model": "z650rs",
+            "year": "2025",
+            "edition": "z650rs-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/retro-sport/z650rs/2025-z650rs-abs",
+            "full_path": "/en-us/motorcycle/z/retro-sport/z650rs/2025-z650rs-abs"
+        },
+        {
+            "name": "z900rs 2025",
+            "base_model": "z900rs",
+            "year": "2025",
+            "edition": "Z900RS-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/retro-sport/z900rs/2025-Z900RS-ABS",
+            "full_path": "/en-us/motorcycle/z/retro-sport/z900rs/2025-Z900RS-ABS"
+        },
+        {
+            "name": "z900rs 2025",
+            "base_model": "z900rs",
+            "year": "2025",
+            "edition": "Z900RS-CAFE-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/retro-sport/z900rs/2025-Z900RS-CAFE-ABS",
+            "full_path": "/en-us/motorcycle/z/retro-sport/z900rs/2025-Z900RS-CAFE-ABS"
+        },
+        {
+            "name": "z900rs 2025",
+            "base_model": "z900rs",
+            "year": "2025",
+            "edition": "z900rs-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/retro-sport/z900rs/2025-z900rs-se-abs",
+            "full_path": "/en-us/motorcycle/z/retro-sport/z900rs/2025-z900rs-se-abs"
+        },
+        {
+            "name": "z-h2 2025",
+            "base_model": "z-h2",
+            "year": "2025",
+            "edition": "z-h2-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/z/z-hypernaked/z-h2/2025-z-h2-se-abs",
+            "full_path": "/en-us/motorcycle/z/z-hypernaked/z-h2/2025-z-h2-se-abs"
+        }
+    ],
+    "Versys": [
+        {
+            "name": "versys-x-300 2025",
+            "base_model": "versys-x-300",
+            "year": "2025",
+            "edition": "versys-x-300-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/versys/adventure-touring/versys-x-300/2025-versys-x-300-abs",
+            "full_path": "/en-us/motorcycle/versys/adventure-touring/versys-x-300/2025-versys-x-300-abs"
+        },
+        {
+            "name": "versys-650 2024",
+            "base_model": "versys-650",
+            "year": "2024",
+            "edition": "versys-650-lt-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/versys/adventure-touring/versys-650/2024-versys-650-lt-abs",
+            "full_path": "/en-us/motorcycle/versys/adventure-touring/versys-650/2024-versys-650-lt-abs"
+        },
+        {
+            "name": "versys-1100-se-lt 2025",
+            "base_model": "versys-1100-se-lt",
+            "year": "2025",
+            "edition": "versys-1100-se-lt-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/versys/adventure-touring/versys-1100-se-lt/2025-versys-1100-se-lt-abs",
+            "full_path": "/en-us/motorcycle/versys/adventure-touring/versys-1100-se-lt/2025-versys-1100-se-lt-abs"
+        }
+    ],
+    "W": [
+        {
+            "name": "w230 2025",
+            "base_model": "w230",
+            "year": "2025",
+            "edition": "w230-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/w/retro-classic/w230/2025-w230-abs",
+            "full_path": "/en-us/motorcycle/w/retro-classic/w230/2025-w230-abs"
+        },
+        {
+            "name": "w800 2025",
+            "base_model": "w800",
+            "year": "2025",
+            "edition": "w800-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/w/retro-classic/w800/2025-w800-abs",
+            "full_path": "/en-us/motorcycle/w/retro-classic/w800/2025-w800-abs"
+        }
+    ],
+    "Eliminator": [
+        {
+            "name": "eliminator 2025",
+            "base_model": "eliminator",
+            "year": "2025",
+            "edition": "eliminator",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/eliminator/Cruiser/eliminator/2025-eliminator",
+            "full_path": "/en-us/motorcycle/eliminator/Cruiser/eliminator/2025-eliminator"
+        },
+        {
+            "name": "eliminator 2025",
+            "base_model": "eliminator",
+            "year": "2025",
+            "edition": "eliminator-se-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/eliminator/Cruiser/eliminator/2025-eliminator-se-abs",
+            "full_path": "/en-us/motorcycle/eliminator/Cruiser/eliminator/2025-eliminator-se-abs"
+        }
+    ],
+    "Vulcan": [
+        {
+            "name": "vulcan-s 2025",
+            "base_model": "vulcan-s",
+            "year": "2025",
+            "edition": "vulcan-s",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/sport-cruiser/vulcan-s/2025-vulcan-s",
+            "full_path": "/en-us/motorcycle/vulcan/sport-cruiser/vulcan-s/2025-vulcan-s"
+        },
+        {
+            "name": "vulcan-s 2025",
+            "base_model": "vulcan-s",
+            "year": "2025",
+            "edition": "vulcan-s-cafe-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/sport-cruiser/vulcan-s/2025-vulcan-s-cafe-abs",
+            "full_path": "/en-us/motorcycle/vulcan/sport-cruiser/vulcan-s/2025-vulcan-s-cafe-abs"
+        },
+        {
+            "name": "vulcan-900 2025",
+            "base_model": "vulcan-900",
+            "year": "2025",
+            "edition": "Vulcan-900-Classic",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/classic-cruiser/vulcan-900/2025-Vulcan-900-Classic",
+            "full_path": "/en-us/motorcycle/vulcan/classic-cruiser/vulcan-900/2025-Vulcan-900-Classic"
+        },
+        {
+            "name": "vulcan-900 2025",
+            "base_model": "vulcan-900",
+            "year": "2025",
+            "edition": "Vulcan-900-Custom",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/classic-cruiser/vulcan-900/2025-Vulcan-900-Custom",
+            "full_path": "/en-us/motorcycle/vulcan/classic-cruiser/vulcan-900/2025-Vulcan-900-Custom"
+        },
+        {
+            "name": "vulcan-900 2025",
+            "base_model": "vulcan-900",
+            "year": "2025",
+            "edition": "Vulcan-900-Classic-LT",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/classic-cruiser/vulcan-900/2025-Vulcan-900-Classic-LT",
+            "full_path": "/en-us/motorcycle/vulcan/classic-cruiser/vulcan-900/2025-Vulcan-900-Classic-LT"
+        },
+        {
+            "name": "vulcan-1700-vaquero 2025",
+            "base_model": "vulcan-1700-vaquero",
+            "year": "2025",
+            "edition": "vulcan-1700-vaquero-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/bagger-cruiser/vulcan-1700-vaquero/2025-vulcan-1700-vaquero-abs",
+            "full_path": "/en-us/motorcycle/vulcan/bagger-cruiser/vulcan-1700-vaquero/2025-vulcan-1700-vaquero-abs"
+        },
+        {
+            "name": "vulcan-1700-voyager 2025",
+            "base_model": "vulcan-1700-voyager",
+            "year": "2025",
+            "edition": "Vulcan-1700-Voyager-ABS",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/vulcan/touring-cruiser/vulcan-1700-voyager/2025-Vulcan-1700-Voyager-ABS",
+            "full_path": "/en-us/motorcycle/vulcan/touring-cruiser/vulcan-1700-voyager/2025-Vulcan-1700-Voyager-ABS"
+        }
+    ],
+    "KLR": [
+        {
+            "name": "klr650 2025",
+            "base_model": "klr650",
+            "year": "2025",
+            "edition": "klr650",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klr/dual-sport/klr650/2025-klr650",
+            "full_path": "/en-us/motorcycle/klr/dual-sport/klr650/2025-klr650"
+        },
+        {
+            "name": "klr650 2025",
+            "base_model": "klr650",
+            "year": "2025",
+            "edition": "klr650-s-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klr/dual-sport/klr650/2025-klr650-s-abs",
+            "full_path": "/en-us/motorcycle/klr/dual-sport/klr650/2025-klr650-s-abs"
+        },
+        {
+            "name": "klr650 2025",
+            "base_model": "klr650",
+            "year": "2025",
+            "edition": "klr650-adventure-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klr/dual-sport/klr650/2025-klr650-adventure-abs",
+            "full_path": "/en-us/motorcycle/klr/dual-sport/klr650/2025-klr650-adventure-abs"
+        }
+    ],
+    "KLX": [
+        {
+            "name": "klx110r 2025",
+            "base_model": "klx110r",
+            "year": "2025",
+            "edition": "klx110r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx110r/2025-klx110r",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx110r/2025-klx110r"
+        },
+        {
+            "name": "klx110r 2025",
+            "base_model": "klx110r",
+            "year": "2025",
+            "edition": "klx110r-l",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx110r/2025-klx110r-l",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx110r/2025-klx110r-l"
+        },
+        {
+            "name": "klx140r 2025",
+            "base_model": "klx140r",
+            "year": "2025",
+            "edition": "klx140r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx140r/2025-klx140r",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx140r/2025-klx140r"
+        },
+        {
+            "name": "klx140r 2025",
+            "base_model": "klx140r",
+            "year": "2025",
+            "edition": "klx140r-l",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx140r/2025-klx140r-l",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx140r/2025-klx140r-l"
+        },
+        {
+            "name": "klx140r 2025",
+            "base_model": "klx140r",
+            "year": "2025",
+            "edition": "klx140r-f",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx140r/2025-klx140r-f",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx140r/2025-klx140r-f"
+        },
+        {
+            "name": "klx230r 2025",
+            "base_model": "klx230r",
+            "year": "2025",
+            "edition": "klx230r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx230r/2025-klx230r",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx230r/2025-klx230r"
+        },
+        {
+            "name": "klx230r 2025",
+            "base_model": "klx230r",
+            "year": "2025",
+            "edition": "klx230r-s",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx230r/2025-klx230r-s",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx230r/2025-klx230r-s"
+        },
+        {
+            "name": "klx300r 2025",
+            "base_model": "klx300r",
+            "year": "2025",
+            "edition": "klx300r",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/off-road/klx300r/2025-klx300r",
+            "full_path": "/en-us/motorcycle/klx/off-road/klx300r/2025-klx300r"
+        },
+        {
+            "name": "klx230 2025",
+            "base_model": "klx230",
+            "year": "2025",
+            "edition": "klx230-s",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/dual-sport/klx230/2025-klx230-s",
+            "full_path": "/en-us/motorcycle/klx/dual-sport/klx230/2025-klx230-s"
+        },
+        {
+            "name": "klx300 2025",
+            "base_model": "klx300",
+            "year": "2025",
+            "edition": "klx300",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/dual-sport/klx300/2025-klx300",
+            "full_path": "/en-us/motorcycle/klx/dual-sport/klx300/2025-klx300"
+        },
+        {
+            "name": "klx230sm 2025",
+            "base_model": "klx230sm",
+            "year": "2025",
+            "edition": "klx230sm-abs",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/supermoto/klx230sm/2025-klx230sm-abs",
+            "full_path": "/en-us/motorcycle/klx/supermoto/klx230sm/2025-klx230sm-abs"
+        },
+        {
+            "name": "klx300sm 2025",
+            "base_model": "klx300sm",
+            "year": "2025",
+            "edition": "klx300sm",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/klx/supermoto/klx300sm/2025-klx300sm",
+            "full_path": "/en-us/motorcycle/klx/supermoto/klx300sm/2025-klx300sm"
+        }
+    ],
+    "KX": [
+        {
+            "name": "kx-65 2025",
+            "base_model": "kx-65",
+            "year": "2025",
+            "edition": "kx65",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/kx-youth-mx/kx-65/2025-kx65",
+            "full_path": "/en-us/motorcycle/kx/kx-youth-mx/kx-65/2025-kx65"
+        },
+        {
+            "name": "kx-85 2025",
+            "base_model": "kx-85",
+            "year": "2025",
+            "edition": "kx85",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/kx-youth-mx/kx-85/2025-kx85",
+            "full_path": "/en-us/motorcycle/kx/kx-youth-mx/kx-85/2025-kx85"
+        },
+        {
+            "name": "kx-112 2025",
+            "base_model": "kx-112",
+            "year": "2025",
+            "edition": "kx112",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/kx-youth-mx/kx-112/2025-kx112",
+            "full_path": "/en-us/motorcycle/kx/kx-youth-mx/kx-112/2025-kx112"
+        },
+        {
+            "name": "kx-250 2025",
+            "base_model": "kx-250",
+            "year": "2025",
+            "edition": "kx250",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-mx/kx-250/2025-kx250",
+            "full_path": "/en-us/motorcycle/kx/full-size-mx/kx-250/2025-kx250"
+        },
+        {
+            "name": "kx-250 2024",
+            "base_model": "kx-250",
+            "year": "2024",
+            "edition": "kx250-50th-anniversary-edition",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-mx/kx-250/2024-kx250-50th-anniversary-edition",
+            "full_path": "/en-us/motorcycle/kx/full-size-mx/kx-250/2024-kx250-50th-anniversary-edition"
+        },
+        {
+            "name": "kx-450 2025",
+            "base_model": "kx-450",
+            "year": "2025",
+            "edition": "kx450",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-mx/kx-450/2025-kx450",
+            "full_path": "/en-us/motorcycle/kx/full-size-mx/kx-450/2025-kx450"
+        },
+        {
+            "name": "kx-450 2024",
+            "base_model": "kx-450",
+            "year": "2024",
+            "edition": "kx450-50th-anniversary-edition",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-mx/kx-450/2024-kx450-50th-anniversary-edition",
+            "full_path": "/en-us/motorcycle/kx/full-size-mx/kx-450/2024-kx450-50th-anniversary-edition"
+        },
+        {
+            "name": "kx-450sr 2025",
+            "base_model": "kx-450sr",
+            "year": "2025",
+            "edition": "kx450sr",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-mx/kx-450sr/2025-kx450sr",
+            "full_path": "/en-us/motorcycle/kx/full-size-mx/kx-450sr/2025-kx450sr"
+        },
+        {
+            "name": "kx-250x 2025",
+            "base_model": "kx-250x",
+            "year": "2025",
+            "edition": "kx250x",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-cross-country/kx-250x/2025-kx250x",
+            "full_path": "/en-us/motorcycle/kx/full-size-cross-country/kx-250x/2025-kx250x"
+        },
+        {
+            "name": "kx-450x 2025",
+            "base_model": "kx-450x",
+            "year": "2025",
+            "edition": "kx450x",
+            "url": "https://www.kawasaki.com/en-us/motorcycle/kx/full-size-cross-country/kx-450x/2025-kx450x",
+            "full_path": "/en-us/motorcycle/kx/full-size-cross-country/kx-450x/2025-kx450x"
+        }
+    ]
+}

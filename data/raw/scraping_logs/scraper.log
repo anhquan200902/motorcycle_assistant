@@ -1,0 +1,223 @@
+2025-02-15 19:37:59,179 - KawasakiScraper - INFO - Found 18 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX™, KFX, Brute Force, MULE™, RIDGE, Teryx, JET SKI, Ninja, Z, Elektrode
+2025-02-15 19:42:09,508 - KawasakiScraper - INFO - Found 1 motorcycle lines: Ninja
+2025-02-15 19:51:33,262 - KawasakiScraper - ERROR - Could not find motorcycle subcategory container
+2025-02-15 19:52:17,763 - KawasakiScraper - INFO - Found 0 motorcycle lines: 
+2025-02-15 19:52:40,443 - KawasakiScraper - INFO - Found 0 motorcycle lines: 
+2025-02-15 19:53:06,297 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX™
+2025-02-15 19:53:34,387 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 21:01:43,194 - KawasakiScraper - INFO - Found 90 models for line ninja
+2025-02-15 21:09:49,530 - KawasakiScraper - ERROR - Could not find motorcycle subcategory container
+2025-02-15 21:10:55,398 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 21:10:58,698 - KawasakiScraper - INFO - Found 45 unique models for line Ninja
+2025-02-15 21:14:13,571 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 21:14:16,849 - KawasakiScraper - INFO - Found 45 unique models for line Ninja
+2025-02-15 21:14:20,184 - KawasakiScraper - INFO - Found 45 unique models for line Z
+2025-02-15 21:14:23,468 - KawasakiScraper - INFO - Found 45 unique models for line Versys
+2025-02-15 21:14:27,357 - KawasakiScraper - INFO - Found 45 unique models for line W
+2025-02-15 21:14:31,067 - KawasakiScraper - INFO - Found 45 unique models for line Eliminator
+2025-02-15 21:14:34,381 - KawasakiScraper - INFO - Found 45 unique models for line Vulcan
+2025-02-15 21:30:38,664 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 21:30:41,955 - KawasakiScraper - ERROR - Could not find nav link for line: Ninja
+2025-02-15 21:30:45,232 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 21:30:48,512 - KawasakiScraper - ERROR - Could not find nav link for line: Versys
+2025-02-15 21:30:52,215 - KawasakiScraper - INFO - Found 2 unique models for line W
+2025-02-15 21:30:55,877 - KawasakiScraper - ERROR - Could not find nav link for line: Eliminator
+2025-02-15 21:30:59,166 - KawasakiScraper - ERROR - Could not find nav link for line: Vulcan
+2025-02-15 21:31:02,818 - KawasakiScraper - ERROR - Could not find nav link for line: KLR
+2025-02-15 21:31:06,090 - KawasakiScraper - ERROR - Could not find nav link for line: KLX
+2025-02-15 21:31:09,359 - KawasakiScraper - ERROR - Could not find nav link for line: KX
+2025-02-15 22:09:16,558 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 22:09:19,831 - KawasakiScraper - ERROR - Could not find nav link for line: Ninja
+2025-02-15 22:09:23,122 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 22:09:26,411 - KawasakiScraper - ERROR - Could not find nav link for line: Versys
+2025-02-15 22:09:30,123 - KawasakiScraper - INFO - Found 2 unique models for line W
+2025-02-15 22:44:49,026 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 22:44:52,304 - KawasakiScraper - INFO - Found 11 unique models for line Ninja
+2025-02-15 22:44:55,588 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 22:44:58,889 - KawasakiScraper - INFO - Found 3 unique models for line Versys
+2025-02-15 22:45:02,613 - KawasakiScraper - ERROR - Nav link for W has no aria-controls attribute
+2025-02-15 22:45:06,284 - KawasakiScraper - INFO - Found 1 unique models for line Eliminator
+2025-02-15 22:45:09,583 - KawasakiScraper - INFO - Found 4 unique models for line Vulcan
+2025-02-15 22:45:13,241 - KawasakiScraper - INFO - Found 1 unique models for line KLR
+2025-02-15 22:45:16,528 - KawasakiScraper - INFO - Found 8 unique models for line KLX
+2025-02-15 22:45:19,821 - KawasakiScraper - INFO - Found 8 unique models for line KX
+2025-02-15 22:47:33,554 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 22:47:36,839 - KawasakiScraper - INFO - Found 11 unique models for line Ninja
+2025-02-15 22:47:40,126 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 22:47:43,415 - KawasakiScraper - INFO - Found 3 unique models for line Versys
+2025-02-15 22:47:47,341 - KawasakiScraper - ERROR - Nav link for W has no aria-controls attribute
+2025-02-15 22:47:51,030 - KawasakiScraper - INFO - Found 1 unique models for line Eliminator
+2025-02-15 22:47:54,357 - KawasakiScraper - INFO - Found 4 unique models for line Vulcan
+2025-02-15 22:47:58,084 - KawasakiScraper - INFO - Found 1 unique models for line KLR
+2025-02-15 22:48:01,328 - KawasakiScraper - INFO - Found 8 unique models for line KLX
+2025-02-15 22:55:39,746 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 22:55:43,031 - KawasakiScraper - INFO - Found 11 unique models for line Ninja
+2025-02-15 22:55:46,318 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 22:55:49,610 - KawasakiScraper - INFO - Found 3 unique models for line Versys
+2025-02-15 22:55:53,345 - KawasakiScraper - ERROR - Could not find content pane for line: W
+2025-02-15 22:55:57,015 - KawasakiScraper - INFO - Found 1 unique models for line Eliminator
+2025-02-15 22:56:00,307 - KawasakiScraper - INFO - Found 4 unique models for line Vulcan
+2025-02-15 22:56:03,973 - KawasakiScraper - INFO - Found 1 unique models for line KLR
+2025-02-15 22:58:11,271 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 22:58:14,535 - KawasakiScraper - INFO - Found 11 unique models for line Ninja
+2025-02-15 22:58:18,224 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 22:58:21,503 - KawasakiScraper - INFO - Found 3 unique models for line Versys
+2025-02-15 22:58:25,204 - KawasakiScraper - INFO - Found 11 unique models for line W
+2025-02-15 22:58:28,893 - KawasakiScraper - INFO - Found 1 unique models for line Eliminator
+2025-02-15 22:58:32,188 - KawasakiScraper - INFO - Found 4 unique models for line Vulcan
+2025-02-15 23:00:13,592 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-15 23:00:16,862 - KawasakiScraper - INFO - Found 11 unique models for line Ninja
+2025-02-15 23:00:20,148 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-15 23:00:23,422 - KawasakiScraper - INFO - Found 3 unique models for line Versys
+2025-02-15 23:00:27,105 - KawasakiScraper - INFO - Found 2 unique models for line W
+2025-02-15 23:00:30,782 - KawasakiScraper - INFO - Found 1 unique models for line Eliminator
+2025-02-15 23:00:34,143 - KawasakiScraper - INFO - Found 4 unique models for line Vulcan
+2025-02-15 23:00:37,826 - KawasakiScraper - INFO - Found 1 unique models for line KLR
+2025-02-15 23:00:41,090 - KawasakiScraper - INFO - Found 8 unique models for line KLX
+2025-02-15 23:00:44,384 - KawasakiScraper - INFO - Found 8 unique models for line KX
+2025-02-16 00:41:43,647 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 00:41:47,008 - KawasakiScraper - INFO - Found 11 unique models for line Ninja
+2025-02-16 00:41:50,272 - KawasakiScraper - INFO - Found 7 unique models for line Z
+2025-02-16 00:41:53,569 - KawasakiScraper - INFO - Found 3 unique models for line Versys
+2025-02-16 00:41:57,275 - KawasakiScraper - INFO - Found 2 unique models for line W
+2025-02-16 00:42:01,011 - KawasakiScraper - INFO - Found 1 unique models for line Eliminator
+2025-02-16 00:42:04,294 - KawasakiScraper - INFO - Found 4 unique models for line Vulcan
+2025-02-16 00:42:07,979 - KawasakiScraper - INFO - Found 1 unique models for line KLR
+2025-02-16 00:42:11,233 - KawasakiScraper - INFO - Found 8 unique models for line KLX
+2025-02-16 00:42:14,593 - KawasakiScraper - INFO - Found 8 unique models for line KX
+2025-02-16 02:01:56,399 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 02:02:00,092 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 02:25:57,896 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 02:26:01,682 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 02:27:05,482 - KawasakiScraper - INFO - Found 27 models with specification URLs for line Ninja
+2025-02-16 02:27:48,340 - KawasakiScraper - INFO - Found 11 models with specification URLs for line Z
+2025-02-16 02:28:07,774 - KawasakiScraper - INFO - Found 3 models with specification URLs for line Versys
+2025-02-16 02:28:22,036 - KawasakiScraper - INFO - Found 2 models with specification URLs for line W
+2025-02-16 02:28:31,264 - KawasakiScraper - INFO - Found 2 models with specification URLs for line Eliminator
+2025-02-16 02:28:57,847 - KawasakiScraper - INFO - Found 7 models with specification URLs for line Vulcan
+2025-02-16 02:29:07,830 - KawasakiScraper - INFO - Found 3 models with specification URLs for line KLR
+2025-02-16 02:29:53,559 - KawasakiScraper - INFO - Found 12 models with specification URLs for line KLX
+2025-02-16 02:30:39,766 - KawasakiScraper - INFO - Found 10 models with specification URLs for line KX
+2025-02-16 02:30:43,502 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 02:30:43,502 - KawasakiScraper - INFO - Starting categorized model scraping
+2025-02-16 02:30:43,502 - KawasakiScraper - INFO - Processing line: Ninja
+2025-02-16 02:31:47,075 - KawasakiScraper - INFO - Found 27 models with specification URLs for line Ninja
+2025-02-16 02:31:47,076 - KawasakiScraper - INFO - Found 27 models for Ninja
+2025-02-16 02:31:47,076 - KawasakiScraper - INFO - Processing line: Z
+2025-02-16 02:32:28,013 - KawasakiScraper - INFO - Found 11 models with specification URLs for line Z
+2025-02-16 02:32:28,013 - KawasakiScraper - INFO - Found 11 models for Z
+2025-02-16 02:32:28,014 - KawasakiScraper - INFO - Processing line: Versys
+2025-02-16 02:32:47,405 - KawasakiScraper - INFO - Found 3 models with specification URLs for line Versys
+2025-02-16 02:32:47,406 - KawasakiScraper - INFO - Found 3 models for Versys
+2025-02-16 02:32:47,406 - KawasakiScraper - INFO - Processing line: W
+2025-02-16 02:33:02,508 - KawasakiScraper - INFO - Found 2 models with specification URLs for line W
+2025-02-16 02:33:02,509 - KawasakiScraper - INFO - Found 2 models for W
+2025-02-16 02:33:02,510 - KawasakiScraper - INFO - Processing line: Eliminator
+2025-02-16 02:33:11,744 - KawasakiScraper - INFO - Found 2 models with specification URLs for line Eliminator
+2025-02-16 02:33:11,744 - KawasakiScraper - INFO - Found 2 models for Eliminator
+2025-02-16 02:33:11,745 - KawasakiScraper - INFO - Processing line: Vulcan
+2025-02-16 02:33:36,188 - KawasakiScraper - INFO - Found 7 models with specification URLs for line Vulcan
+2025-02-16 02:33:36,188 - KawasakiScraper - INFO - Found 7 models for Vulcan
+2025-02-16 02:33:36,190 - KawasakiScraper - INFO - Processing line: KLR
+2025-02-16 02:33:45,174 - KawasakiScraper - INFO - Found 3 models with specification URLs for line KLR
+2025-02-16 02:33:45,174 - KawasakiScraper - INFO - Found 3 models for KLR
+2025-02-16 02:33:45,174 - KawasakiScraper - INFO - Processing line: KLX
+2025-02-16 02:34:30,923 - KawasakiScraper - INFO - Found 12 models with specification URLs for line KLX
+2025-02-16 02:34:30,924 - KawasakiScraper - INFO - Found 12 models for KLX
+2025-02-16 02:34:30,925 - KawasakiScraper - INFO - Processing line: KX
+2025-02-16 02:35:18,765 - KawasakiScraper - INFO - Found 10 models with specification URLs for line KX
+2025-02-16 02:35:18,766 - KawasakiScraper - INFO - Found 10 models for KX
+2025-02-16 02:35:18,767 - KawasakiScraper - INFO - Completed scraping. Total lines: 9, Total models: 77
+2025-02-16 02:35:18,769 - KawasakiScraper - INFO - Saved categorized data to test_kawasaki_catalog.json
+2025-02-16 02:35:18,963 - KawasakiScraper - INFO - Saved flattened data to test_kawasaki_catalog.csv
+2025-02-16 04:40:57,585 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 04:42:01,094 - KawasakiScraper - INFO - Found 27 models with specification URLs for line Ninja
+2025-02-16 04:42:04,619 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-02-16 04:45:05,858 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 04:45:46,681 - KawasakiScraper - INFO - Found 9 motorcycle lines: Ninja, Z, Versys, W, Eliminator, Vulcan, KLR, KLX, KX
+2025-02-16 04:46:50,117 - KawasakiScraper - INFO - Found 27 models with specification URLs for line Ninja
+2025-02-16 04:46:53,818 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-02-16 04:46:59,312 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-02-16 04:47:04,842 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-02-16 04:47:10,329 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-02-16 04:47:15,866 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-500
+2025-02-16 04:47:21,388 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-650
+2025-02-16 04:47:26,904 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-650
+2025-02-16 04:47:32,414 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-1000-abs
+2025-02-16 04:47:37,947 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-1100sx
+2025-02-16 04:47:43,685 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-1100sx
+2025-02-16 04:47:49,191 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-4r
+2025-02-16 04:47:54,708 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-4r
+2025-02-16 04:48:00,224 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-4r
+2025-02-16 04:48:05,738 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-4r
+2025-02-16 04:48:11,264 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-6r
+2025-02-16 04:48:16,770 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-6r
+2025-02-16 04:48:22,270 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-6r
+2025-02-16 04:48:27,785 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-10r
+2025-02-16 04:48:33,265 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-10r
+2025-02-16 04:48:38,794 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-10r
+2025-02-16 04:48:44,299 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-10r
+2025-02-16 04:48:49,839 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-14r
+2025-02-16 04:48:55,310 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-14r
+2025-02-16 04:49:00,825 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2-sx
+2025-02-16 04:49:06,360 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2
+2025-02-16 04:49:11,862 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2
+2025-02-16 04:49:17,367 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2r
+2025-02-16 04:50:03,141 - KawasakiScraper - INFO - Found 11 models with specification URLs for line Z
+2025-02-16 04:50:06,651 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z125-pro
+2025-02-16 04:50:12,173 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z500
+2025-02-16 04:50:17,694 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z500
+2025-02-16 04:50:23,225 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z650
+2025-02-16 04:50:28,729 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900
+2025-02-16 04:50:34,250 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900
+2025-02-16 04:50:39,716 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z650rs
+2025-02-16 04:50:45,197 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900rs
+2025-02-16 04:50:50,721 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900rs
+2025-02-16 04:50:56,191 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900rs
+2025-02-16 04:51:01,721 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z-h2
+2025-02-16 04:51:26,071 - KawasakiScraper - INFO - Found 3 models with specification URLs for line Versys
+2025-02-16 04:51:29,580 - KawasakiScraper - INFO - Successfully scraped specs for 2025 versys-x-300
+2025-02-16 04:51:35,046 - KawasakiScraper - INFO - Successfully scraped specs for 2024 versys-650
+2025-02-16 04:51:40,548 - KawasakiScraper - INFO - Successfully scraped specs for 2025 versys-1100-se-lt
+2025-02-16 04:51:59,849 - KawasakiScraper - INFO - Found 2 models with specification URLs for line W
+2025-02-16 04:52:03,295 - KawasakiScraper - INFO - Successfully scraped specs for 2025 w230
+2025-02-16 04:52:08,806 - KawasakiScraper - INFO - Successfully scraped specs for 2025 w800
+2025-02-16 04:52:22,951 - KawasakiScraper - INFO - Found 2 models with specification URLs for line Eliminator
+2025-02-16 04:52:26,459 - KawasakiScraper - INFO - Successfully scraped specs for 2025 eliminator
+2025-02-16 04:52:31,947 - KawasakiScraper - INFO - Successfully scraped specs for 2025 eliminator
+2025-02-16 04:53:01,369 - KawasakiScraper - INFO - Found 7 models with specification URLs for line Vulcan
+2025-02-16 04:53:04,852 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-s
+2025-02-16 04:53:10,391 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-s
+2025-02-16 04:53:15,882 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-900
+2025-02-16 04:53:21,394 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-900
+2025-02-16 04:53:26,874 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-900
+2025-02-16 04:53:32,364 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-1700-vaquero
+2025-02-16 04:53:37,867 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-1700-voyager
+2025-02-16 04:53:51,853 - KawasakiScraper - INFO - Found 3 models with specification URLs for line KLR
+2025-02-16 04:53:55,319 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klr650
+2025-02-16 04:54:00,783 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klr650
+2025-02-16 04:54:06,273 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klr650
+2025-02-16 04:54:57,004 - KawasakiScraper - INFO - Found 12 models with specification URLs for line KLX
+2025-02-16 04:55:00,484 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx110r
+2025-02-16 04:55:05,951 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx110r
+2025-02-16 04:55:11,423 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx140r
+2025-02-16 04:55:16,922 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx140r
+2025-02-16 04:55:22,382 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx140r
+2025-02-16 04:55:27,906 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230r
+2025-02-16 04:55:33,372 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230r
+2025-02-16 04:55:38,832 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx300r
+2025-02-16 04:55:44,351 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230
+2025-02-16 04:55:49,802 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx300
+2025-02-16 04:55:55,324 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230sm
+2025-02-16 04:56:00,835 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx300sm
+2025-02-16 04:56:52,257 - KawasakiScraper - INFO - Found 10 models with specification URLs for line KX
+2025-02-16 04:56:55,723 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-65
+2025-02-16 04:57:01,202 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-85
+2025-02-16 04:57:06,703 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-112
+2025-02-16 04:57:12,169 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-250
+2025-02-16 04:57:17,701 - KawasakiScraper - INFO - Successfully scraped specs for 2024 kx-250
+2025-02-16 04:57:23,190 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-450
+2025-02-16 04:57:28,713 - KawasakiScraper - INFO - Successfully scraped specs for 2024 kx-450
+2025-02-16 04:57:34,227 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-450sr
+2025-02-16 04:57:39,726 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-250x
+2025-02-16 04:57:45,328 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-450x

@@ -1,0 +1,34 @@
+# Scraping Configuration
+scraping:
+  delay: 2  # Delay between requests in seconds
+  retries: 3  # Number of retries for failed requests
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  
+# Data Paths
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  logs: "data/raw/scraping_logs"
+
+# Manufacturer URLs
+manufacturers:
+  kawasaki:
+    base_url: "https://www.kawasaki.com/en-us/"
+    motorcycle_path: "motorcycle"
+  yamaha:
+    base_url: "https://www.yamahamotorsports.com/"
+    categories:
+      road: "models.php?action=lineup&line=motorcycle"
+      off_road: "models.php?action=lineup&line=motorcycle-off-road"
+
+# Model Configuration
+model:
+  max_sequence_length: 512
+  batch_size: 16
+  learning_rate: 2e-5
+  epochs: 3
+  
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
