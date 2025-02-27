@@ -68,15 +68,9 @@ class YamahaScraper(BaseScraper):
                 
                 model_url = model_link['href']
             
-                # Extract just the model name from the link text or nearby elements
-                model_name = model_link.text.strip()
-                if not model_name:
-                    # Fallback to get model name from URL
-                    model_name = model_url.split('/')[-1].replace('-', ' ').title()
             
                 # Create simple model info dictionary
                 model_info = {
-                    'name': model_name,
                     'category': category,
                     'url': urljoin(self.base_url, model_url),
                     'full_path': model_url
