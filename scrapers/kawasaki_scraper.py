@@ -196,6 +196,10 @@ class KawasakiScraper(BaseScraper):
                 
             }
 
+            price_data = self._extract_price_info(soup)
+            if price_data:
+                specs.update(price_data)
+
             spec_accordions = soup.find_all('div', class_='collapse specAccordion')
 
             for accordion in spec_accordions:
@@ -224,6 +228,22 @@ class KawasakiScraper(BaseScraper):
         except Exception as e:
             self._log_error(url, str(e))
             return None
+
+    def _extract_price_info(self, soup: BeautifulSoup) -> Dict[str, str]:
+        price_data = {}
+        price_section = soup.find('div', class_ = 'msrp')
+        if price_section:
+            prices = price_section.find_all('li', class_ = 'list-inline-item')
+            
+            for item in prices:
+                head_five = item.find('div', class_ = 'headFive')
+                head_three = item.find('div', class_  ='headThree')
+                head_three_with_content = head_three and head_three.find('span')
+                if head_five or head_three_with_content:
+                    msrp_title = head_five.get_text(strip=True)
+                    msrp = head_three_with_content.get_text(strip=True)
+                    price_data[msrp_title] = msrp
+        return price_data
         
     def _clean_key(self, key : str) -> str:
         """Clean specification key names for consistent dictionary keys"""

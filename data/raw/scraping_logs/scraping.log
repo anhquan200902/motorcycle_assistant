@@ -1,0 +1,314 @@
+2025-03-03 22:32:46,538 - KawasakiScraper - INFO - Starting Kawasaki motorcycle scraping process
+2025-03-03 22:32:46,570 - KawasakiScraper - INFO - Step 1: Saving basic catalog data...
+2025-03-03 22:32:50,578 - KawasakiScraper - INFO - Found 9 motorcycle lines: NINJA, Z, VERSYS, W, ELIMINATOR, VULCAN, KLR, KLX, KX
+2025-03-03 22:32:50,579 - KawasakiScraper - INFO - Starting categorized model scraping
+2025-03-03 22:32:50,579 - KawasakiScraper - INFO - Processing line: NINJA
+2025-03-03 22:33:55,743 - KawasakiScraper - INFO - Found 27 models with specification URLs for line NINJA
+2025-03-03 22:33:55,746 - KawasakiScraper - INFO - Found 27 models for NINJA
+2025-03-03 22:33:55,746 - KawasakiScraper - INFO - Processing line: Z
+2025-03-03 22:34:37,845 - KawasakiScraper - INFO - Found 11 models with specification URLs for line Z
+2025-03-03 22:34:37,845 - KawasakiScraper - INFO - Found 11 models for Z
+2025-03-03 22:34:37,845 - KawasakiScraper - INFO - Processing line: VERSYS
+2025-03-03 22:34:58,413 - KawasakiScraper - INFO - Found 3 models with specification URLs for line VERSYS
+2025-03-03 22:34:58,415 - KawasakiScraper - INFO - Found 3 models for VERSYS
+2025-03-03 22:34:58,416 - KawasakiScraper - INFO - Processing line: W
+2025-03-03 22:35:13,359 - KawasakiScraper - INFO - Found 2 models with specification URLs for line W
+2025-03-03 22:35:13,360 - KawasakiScraper - INFO - Found 2 models for W
+2025-03-03 22:35:13,360 - KawasakiScraper - INFO - Processing line: ELIMINATOR
+2025-03-03 22:35:24,091 - KawasakiScraper - INFO - Found 2 models with specification URLs for line ELIMINATOR
+2025-03-03 22:35:24,092 - KawasakiScraper - INFO - Found 2 models for ELIMINATOR
+2025-03-03 22:35:24,092 - KawasakiScraper - INFO - Processing line: VULCAN
+2025-03-03 22:35:49,035 - KawasakiScraper - INFO - Found 7 models with specification URLs for line VULCAN
+2025-03-03 22:35:49,036 - KawasakiScraper - INFO - Found 7 models for VULCAN
+2025-03-03 22:35:49,036 - KawasakiScraper - INFO - Processing line: KLR
+2025-03-03 22:35:58,188 - KawasakiScraper - INFO - Found 3 models with specification URLs for line KLR
+2025-03-03 22:35:58,189 - KawasakiScraper - INFO - Found 3 models for KLR
+2025-03-03 22:35:58,189 - KawasakiScraper - INFO - Processing line: KLX
+2025-03-03 22:36:44,249 - KawasakiScraper - INFO - Found 12 models with specification URLs for line KLX
+2025-03-03 22:36:44,250 - KawasakiScraper - INFO - Found 12 models for KLX
+2025-03-03 22:36:44,250 - KawasakiScraper - INFO - Processing line: KX
+2025-03-03 22:37:31,006 - KawasakiScraper - INFO - Found 10 models with specification URLs for line KX
+2025-03-03 22:37:31,006 - KawasakiScraper - INFO - Found 10 models for KX
+2025-03-03 22:37:31,006 - KawasakiScraper - INFO - Completed scraping. Total lines: 9, Total models: 77
+2025-03-03 22:37:31,042 - KawasakiScraper - INFO - Saved categorized data to kawasaki_catalog.json
+2025-03-03 22:37:31,075 - KawasakiScraper - INFO - Saved flattened data to kawasaki_catalog.csv
+2025-03-03 22:37:31,076 - KawasakiScraper - INFO - Basic catalog data saved successfully
+2025-03-03 22:37:31,076 - KawasakiScraper - INFO - Step 2: Starting full specification scraping...
+2025-03-03 22:37:34,918 - KawasakiScraper - INFO - Found 9 motorcycle lines: NINJA, Z, VERSYS, W, ELIMINATOR, VULCAN, KLR, KLX, KX
+2025-03-03 22:37:34,919 - KawasakiScraper - INFO - Processing line: NINJA
+2025-03-03 22:38:39,633 - KawasakiScraper - INFO - Found 27 models with specification URLs for line NINJA
+2025-03-03 22:38:39,634 - KawasakiScraper - INFO - Found 27 models for NINJA
+2025-03-03 22:38:39,634 - KawasakiScraper - INFO - Scraping specs for: ninja-500 2025
+2025-03-03 22:38:43,201 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-03-03 22:38:43,201 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-500 2025
+2025-03-03 22:38:45,207 - KawasakiScraper - INFO - Scraping specs for: ninja-500 2025
+2025-03-03 22:38:48,885 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-03-03 22:38:48,885 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-500 2025
+2025-03-03 22:38:50,898 - KawasakiScraper - INFO - Scraping specs for: ninja-500 2025
+2025-03-03 22:38:54,482 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-03-03 22:38:54,483 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-500 2025
+2025-03-03 22:38:56,491 - KawasakiScraper - INFO - Scraping specs for: ninja-500 2025
+2025-03-03 22:38:59,982 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-500
+2025-03-03 22:38:59,983 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-500 2025
+2025-03-03 22:39:01,991 - KawasakiScraper - INFO - Scraping specs for: ninja-500 2024
+2025-03-03 22:39:05,538 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-500
+2025-03-03 22:39:05,539 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-500 2024
+2025-03-03 22:39:07,540 - KawasakiScraper - INFO - Scraping specs for: ninja-650 2025
+2025-03-03 22:39:11,093 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-650
+2025-03-03 22:39:11,093 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-650 2025
+2025-03-03 22:39:13,106 - KawasakiScraper - INFO - Scraping specs for: ninja-650 2025
+2025-03-03 22:39:16,631 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-650
+2025-03-03 22:39:16,632 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-650 2025
+2025-03-03 22:39:18,645 - KawasakiScraper - INFO - Scraping specs for: ninja-1000-abs 2024
+2025-03-03 22:39:22,150 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-1000-abs
+2025-03-03 22:39:22,150 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-1000-abs 2024
+2025-03-03 22:39:24,163 - KawasakiScraper - INFO - Scraping specs for: ninja-1100sx 2025
+2025-03-03 22:39:27,748 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-1100sx
+2025-03-03 22:39:27,749 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-1100sx 2025
+2025-03-03 22:39:29,763 - KawasakiScraper - INFO - Scraping specs for: ninja-1100sx 2025
+2025-03-03 22:39:33,365 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-1100sx
+2025-03-03 22:39:33,365 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-1100sx 2025
+2025-03-03 22:39:35,378 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-4r 2025
+2025-03-03 22:39:38,868 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-4r
+2025-03-03 22:39:38,868 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-4r 2025
+2025-03-03 22:39:40,872 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-4r 2025
+2025-03-03 22:39:44,498 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-4r
+2025-03-03 22:39:44,499 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-4r 2025
+2025-03-03 22:39:46,502 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-4r 2025
+2025-03-03 22:39:50,067 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-4r
+2025-03-03 22:39:50,067 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-4r 2025
+2025-03-03 22:39:52,081 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-4r 2024
+2025-03-03 22:39:55,649 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-4r
+2025-03-03 22:39:55,650 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-4r 2024
+2025-03-03 22:39:57,657 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-6r 2025
+2025-03-03 22:40:01,230 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-6r
+2025-03-03 22:40:01,230 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-6r 2025
+2025-03-03 22:40:03,236 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-6r 2025
+2025-03-03 22:40:06,946 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-6r
+2025-03-03 22:40:06,946 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-6r 2025
+2025-03-03 22:40:08,962 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-6r 2024
+2025-03-03 22:40:12,596 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-6r
+2025-03-03 22:40:12,597 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-6r 2024
+2025-03-03 22:40:14,606 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-10r 2025
+2025-03-03 22:40:18,128 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-10r
+2025-03-03 22:40:18,129 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-10r 2025
+2025-03-03 22:40:20,134 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-10r 2025
+2025-03-03 22:40:23,721 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-10r
+2025-03-03 22:40:23,721 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-10r 2025
+2025-03-03 22:40:25,721 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-10r 2025
+2025-03-03 22:40:29,233 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-10r
+2025-03-03 22:40:29,234 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-10r 2025
+2025-03-03 22:40:31,235 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-10r 2024
+2025-03-03 22:40:35,007 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-10r
+2025-03-03 22:40:35,007 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-10r 2024
+2025-03-03 22:40:37,010 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-14r 2025
+2025-03-03 22:40:40,531 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-zx-14r
+2025-03-03 22:40:40,532 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-14r 2025
+2025-03-03 22:40:42,543 - KawasakiScraper - INFO - Scraping specs for: ninja-zx-14r 2024
+2025-03-03 22:40:47,469 - KawasakiScraper - INFO - Successfully scraped specs for 2024 ninja-zx-14r
+2025-03-03 22:40:47,469 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-zx-14r 2024
+2025-03-03 22:40:49,476 - KawasakiScraper - INFO - Scraping specs for: ninja-h2-sx 2025
+2025-03-03 22:40:53,006 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2-sx
+2025-03-03 22:40:53,006 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-h2-sx 2025
+2025-03-03 22:40:55,013 - KawasakiScraper - INFO - Scraping specs for: ninja-h2 2025
+2025-03-03 22:40:58,654 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2
+2025-03-03 22:40:58,655 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-h2 2025
+2025-03-03 22:41:00,658 - KawasakiScraper - INFO - Scraping specs for: ninja-h2 2025
+2025-03-03 22:41:04,183 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2
+2025-03-03 22:41:04,185 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-h2 2025
+2025-03-03 22:41:06,199 - KawasakiScraper - INFO - Scraping specs for: ninja-h2r 2025
+2025-03-03 22:41:10,865 - KawasakiScraper - INFO - Successfully scraped specs for 2025 ninja-h2r
+2025-03-03 22:41:10,867 - KawasakiScraper - INFO - Successfully scraped specifications for ninja-h2r 2025
+2025-03-03 22:41:12,876 - KawasakiScraper - INFO - Completed processing NINJA line
+2025-03-03 22:41:15,877 - KawasakiScraper - INFO - Processing line: Z
+2025-03-03 22:41:56,846 - KawasakiScraper - INFO - Found 11 models with specification URLs for line Z
+2025-03-03 22:41:56,846 - KawasakiScraper - INFO - Found 11 models for Z
+2025-03-03 22:41:56,846 - KawasakiScraper - INFO - Scraping specs for: z125-pro 2025
+2025-03-03 22:42:00,490 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z125-pro
+2025-03-03 22:42:00,491 - KawasakiScraper - INFO - Successfully scraped specifications for z125-pro 2025
+2025-03-03 22:42:02,499 - KawasakiScraper - INFO - Scraping specs for: z500 2025
+2025-03-03 22:42:05,972 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z500
+2025-03-03 22:42:05,972 - KawasakiScraper - INFO - Successfully scraped specifications for z500 2025
+2025-03-03 22:42:07,980 - KawasakiScraper - INFO - Scraping specs for: z500 2025
+2025-03-03 22:42:11,507 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z500
+2025-03-03 22:42:11,508 - KawasakiScraper - INFO - Successfully scraped specifications for z500 2025
+2025-03-03 22:42:13,518 - KawasakiScraper - INFO - Scraping specs for: z650 2025
+2025-03-03 22:42:17,016 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z650
+2025-03-03 22:42:17,016 - KawasakiScraper - INFO - Successfully scraped specifications for z650 2025
+2025-03-03 22:42:19,030 - KawasakiScraper - INFO - Scraping specs for: z900 2025
+2025-03-03 22:42:22,568 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900
+2025-03-03 22:42:22,568 - KawasakiScraper - INFO - Successfully scraped specifications for z900 2025
+2025-03-03 22:42:24,578 - KawasakiScraper - INFO - Scraping specs for: z900 2025
+2025-03-03 22:42:28,097 - KawasakiScraper - ERROR - Error scraping https://www.kawasaki.com/en-us/motorcycle/z/supernaked/z900/2025-z900-se-abs: 'NoneType' object has no attribute 'get_text'
+2025-03-03 22:42:28,097 - KawasakiScraper - ERROR - Failed to scrape specifications for z900 2025
+2025-03-03 22:42:30,110 - KawasakiScraper - INFO - Scraping specs for: z650rs 2025
+2025-03-03 22:42:33,719 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z650rs
+2025-03-03 22:42:33,719 - KawasakiScraper - INFO - Successfully scraped specifications for z650rs 2025
+2025-03-03 22:42:35,726 - KawasakiScraper - INFO - Scraping specs for: z900rs 2025
+2025-03-03 22:42:39,205 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900rs
+2025-03-03 22:42:39,205 - KawasakiScraper - INFO - Successfully scraped specifications for z900rs 2025
+2025-03-03 22:42:41,206 - KawasakiScraper - INFO - Scraping specs for: z900rs 2025
+2025-03-03 22:42:45,014 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900rs
+2025-03-03 22:42:45,016 - KawasakiScraper - INFO - Successfully scraped specifications for z900rs 2025
+2025-03-03 22:42:47,021 - KawasakiScraper - INFO - Scraping specs for: z900rs 2025
+2025-03-03 22:42:50,554 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z900rs
+2025-03-03 22:42:50,555 - KawasakiScraper - INFO - Successfully scraped specifications for z900rs 2025
+2025-03-03 22:42:52,555 - KawasakiScraper - INFO - Scraping specs for: z-h2 2025
+2025-03-03 22:42:56,240 - KawasakiScraper - INFO - Successfully scraped specs for 2025 z-h2
+2025-03-03 22:42:56,241 - KawasakiScraper - INFO - Successfully scraped specifications for z-h2 2025
+2025-03-03 22:42:58,242 - KawasakiScraper - INFO - Completed processing Z line
+2025-03-03 22:43:01,251 - KawasakiScraper - INFO - Processing line: VERSYS
+2025-03-03 22:43:20,680 - KawasakiScraper - INFO - Found 3 models with specification URLs for line VERSYS
+2025-03-03 22:43:20,683 - KawasakiScraper - INFO - Found 3 models for VERSYS
+2025-03-03 22:43:20,683 - KawasakiScraper - INFO - Scraping specs for: versys-x-300 2025
+2025-03-03 22:43:24,262 - KawasakiScraper - INFO - Successfully scraped specs for 2025 versys-x-300
+2025-03-03 22:43:24,263 - KawasakiScraper - INFO - Successfully scraped specifications for versys-x-300 2025
+2025-03-03 22:43:26,272 - KawasakiScraper - INFO - Scraping specs for: versys-650 2024
+2025-03-03 22:43:29,801 - KawasakiScraper - INFO - Successfully scraped specs for 2024 versys-650
+2025-03-03 22:43:29,802 - KawasakiScraper - INFO - Successfully scraped specifications for versys-650 2024
+2025-03-03 22:43:31,815 - KawasakiScraper - INFO - Scraping specs for: versys-1100-se-lt 2025
+2025-03-03 22:43:35,355 - KawasakiScraper - INFO - Successfully scraped specs for 2025 versys-1100-se-lt
+2025-03-03 22:43:35,356 - KawasakiScraper - INFO - Successfully scraped specifications for versys-1100-se-lt 2025
+2025-03-03 22:43:37,363 - KawasakiScraper - INFO - Completed processing VERSYS line
+2025-03-03 22:43:40,364 - KawasakiScraper - INFO - Processing line: W
+2025-03-03 22:43:54,668 - KawasakiScraper - INFO - Found 2 models with specification URLs for line W
+2025-03-03 22:43:54,671 - KawasakiScraper - INFO - Found 2 models for W
+2025-03-03 22:43:54,672 - KawasakiScraper - INFO - Scraping specs for: w230 2025
+2025-03-03 22:43:58,240 - KawasakiScraper - INFO - Successfully scraped specs for 2025 w230
+2025-03-03 22:43:58,240 - KawasakiScraper - INFO - Successfully scraped specifications for w230 2025
+2025-03-03 22:44:00,252 - KawasakiScraper - INFO - Scraping specs for: w800 2025
+2025-03-03 22:44:03,794 - KawasakiScraper - INFO - Successfully scraped specs for 2025 w800
+2025-03-03 22:44:03,795 - KawasakiScraper - INFO - Successfully scraped specifications for w800 2025
+2025-03-03 22:44:05,799 - KawasakiScraper - INFO - Completed processing W line
+2025-03-03 22:44:08,800 - KawasakiScraper - INFO - Processing line: ELIMINATOR
+2025-03-03 22:44:18,036 - KawasakiScraper - INFO - Found 2 models with specification URLs for line ELIMINATOR
+2025-03-03 22:44:18,038 - KawasakiScraper - INFO - Found 2 models for ELIMINATOR
+2025-03-03 22:44:18,038 - KawasakiScraper - INFO - Scraping specs for: eliminator 2025
+2025-03-03 22:44:21,622 - KawasakiScraper - INFO - Successfully scraped specs for 2025 eliminator
+2025-03-03 22:44:21,623 - KawasakiScraper - INFO - Successfully scraped specifications for eliminator 2025
+2025-03-03 22:44:23,635 - KawasakiScraper - INFO - Scraping specs for: eliminator 2025
+2025-03-03 22:44:27,194 - KawasakiScraper - INFO - Successfully scraped specs for 2025 eliminator
+2025-03-03 22:44:27,195 - KawasakiScraper - INFO - Successfully scraped specifications for eliminator 2025
+2025-03-03 22:44:29,197 - KawasakiScraper - INFO - Completed processing ELIMINATOR line
+2025-03-03 22:44:32,207 - KawasakiScraper - INFO - Processing line: VULCAN
+2025-03-03 22:44:56,752 - KawasakiScraper - INFO - Found 7 models with specification URLs for line VULCAN
+2025-03-03 22:44:56,753 - KawasakiScraper - INFO - Found 7 models for VULCAN
+2025-03-03 22:44:56,753 - KawasakiScraper - INFO - Scraping specs for: vulcan-s 2025
+2025-03-03 22:45:00,354 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-s
+2025-03-03 22:45:00,354 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-s 2025
+2025-03-03 22:45:02,369 - KawasakiScraper - INFO - Scraping specs for: vulcan-s 2025
+2025-03-03 22:45:06,030 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-s
+2025-03-03 22:45:06,031 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-s 2025
+2025-03-03 22:45:08,038 - KawasakiScraper - INFO - Scraping specs for: vulcan-900 2025
+2025-03-03 22:45:11,598 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-900
+2025-03-03 22:45:11,598 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-900 2025
+2025-03-03 22:45:13,613 - KawasakiScraper - INFO - Scraping specs for: vulcan-900 2025
+2025-03-03 22:45:17,176 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-900
+2025-03-03 22:45:17,176 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-900 2025
+2025-03-03 22:45:19,186 - KawasakiScraper - INFO - Scraping specs for: vulcan-900 2025
+2025-03-03 22:45:22,720 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-900
+2025-03-03 22:45:22,720 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-900 2025
+2025-03-03 22:45:24,723 - KawasakiScraper - INFO - Scraping specs for: vulcan-1700-vaquero 2025
+2025-03-03 22:45:28,271 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-1700-vaquero
+2025-03-03 22:45:28,272 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-1700-vaquero 2025
+2025-03-03 22:45:30,283 - KawasakiScraper - INFO - Scraping specs for: vulcan-1700-voyager 2025
+2025-03-03 22:45:33,793 - KawasakiScraper - INFO - Successfully scraped specs for 2025 vulcan-1700-voyager
+2025-03-03 22:45:33,793 - KawasakiScraper - INFO - Successfully scraped specifications for vulcan-1700-voyager 2025
+2025-03-03 22:45:35,803 - KawasakiScraper - INFO - Completed processing VULCAN line
+2025-03-03 22:45:38,805 - KawasakiScraper - INFO - Processing line: KLR
+2025-03-03 22:45:48,170 - KawasakiScraper - INFO - Found 3 models with specification URLs for line KLR
+2025-03-03 22:45:48,171 - KawasakiScraper - INFO - Found 3 models for KLR
+2025-03-03 22:45:48,171 - KawasakiScraper - INFO - Scraping specs for: klr650 2025
+2025-03-03 22:45:51,681 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klr650
+2025-03-03 22:45:51,681 - KawasakiScraper - INFO - Successfully scraped specifications for klr650 2025
+2025-03-03 22:45:53,695 - KawasakiScraper - INFO - Scraping specs for: klr650 2025
+2025-03-03 22:45:57,229 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klr650
+2025-03-03 22:45:57,230 - KawasakiScraper - INFO - Successfully scraped specifications for klr650 2025
+2025-03-03 22:45:59,244 - KawasakiScraper - INFO - Scraping specs for: klr650 2025
+2025-03-03 22:46:02,722 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klr650
+2025-03-03 22:46:02,723 - KawasakiScraper - INFO - Successfully scraped specifications for klr650 2025
+2025-03-03 22:46:04,732 - KawasakiScraper - INFO - Completed processing KLR line
+2025-03-03 22:46:07,738 - KawasakiScraper - INFO - Processing line: KLX
+2025-03-03 22:46:54,067 - KawasakiScraper - INFO - Found 12 models with specification URLs for line KLX
+2025-03-03 22:46:54,071 - KawasakiScraper - INFO - Found 12 models for KLX
+2025-03-03 22:46:54,072 - KawasakiScraper - INFO - Scraping specs for: klx110r 2025
+2025-03-03 22:46:57,529 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx110r
+2025-03-03 22:46:57,529 - KawasakiScraper - INFO - Successfully scraped specifications for klx110r 2025
+2025-03-03 22:46:59,535 - KawasakiScraper - INFO - Scraping specs for: klx110r 2025
+2025-03-03 22:47:03,137 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx110r
+2025-03-03 22:47:03,138 - KawasakiScraper - INFO - Successfully scraped specifications for klx110r 2025
+2025-03-03 22:47:05,154 - KawasakiScraper - INFO - Scraping specs for: klx140r 2025
+2025-03-03 22:47:08,674 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx140r
+2025-03-03 22:47:08,674 - KawasakiScraper - INFO - Successfully scraped specifications for klx140r 2025
+2025-03-03 22:47:10,678 - KawasakiScraper - INFO - Scraping specs for: klx140r 2025
+2025-03-03 22:47:14,173 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx140r
+2025-03-03 22:47:14,174 - KawasakiScraper - INFO - Successfully scraped specifications for klx140r 2025
+2025-03-03 22:47:16,181 - KawasakiScraper - INFO - Scraping specs for: klx140r 2025
+2025-03-03 22:47:19,782 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx140r
+2025-03-03 22:47:19,782 - KawasakiScraper - INFO - Successfully scraped specifications for klx140r 2025
+2025-03-03 22:47:21,794 - KawasakiScraper - INFO - Scraping specs for: klx230r 2025
+2025-03-03 22:47:25,322 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230r
+2025-03-03 22:47:25,322 - KawasakiScraper - INFO - Successfully scraped specifications for klx230r 2025
+2025-03-03 22:47:27,336 - KawasakiScraper - INFO - Scraping specs for: klx230r 2025
+2025-03-03 22:47:30,832 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230r
+2025-03-03 22:47:30,832 - KawasakiScraper - INFO - Successfully scraped specifications for klx230r 2025
+2025-03-03 22:47:32,845 - KawasakiScraper - INFO - Scraping specs for: klx300r 2025
+2025-03-03 22:48:09,139 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx300r
+2025-03-03 22:48:09,140 - KawasakiScraper - INFO - Successfully scraped specifications for klx300r 2025
+2025-03-03 22:48:11,153 - KawasakiScraper - INFO - Scraping specs for: klx230 2025
+2025-03-03 22:48:27,805 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230
+2025-03-03 22:48:27,806 - KawasakiScraper - INFO - Successfully scraped specifications for klx230 2025
+2025-03-03 22:48:29,819 - KawasakiScraper - INFO - Scraping specs for: klx300 2025
+2025-03-03 22:48:33,332 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx300
+2025-03-03 22:48:33,332 - KawasakiScraper - INFO - Successfully scraped specifications for klx300 2025
+2025-03-03 22:48:35,343 - KawasakiScraper - INFO - Scraping specs for: klx230sm 2025
+2025-03-03 22:48:49,404 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx230sm
+2025-03-03 22:48:49,405 - KawasakiScraper - INFO - Successfully scraped specifications for klx230sm 2025
+2025-03-03 22:48:51,409 - KawasakiScraper - INFO - Scraping specs for: klx300sm 2025
+2025-03-03 22:49:08,052 - KawasakiScraper - INFO - Successfully scraped specs for 2025 klx300sm
+2025-03-03 22:49:08,053 - KawasakiScraper - INFO - Successfully scraped specifications for klx300sm 2025
+2025-03-03 22:49:10,059 - KawasakiScraper - INFO - Completed processing KLX line
+2025-03-03 22:49:13,060 - KawasakiScraper - INFO - Processing line: KX
+2025-03-03 22:50:04,991 - KawasakiScraper - INFO - Found 10 models with specification URLs for line KX
+2025-03-03 22:50:04,993 - KawasakiScraper - INFO - Found 10 models for KX
+2025-03-03 22:50:04,993 - KawasakiScraper - INFO - Scraping specs for: kx-65 2025
+2025-03-03 22:50:08,524 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-65
+2025-03-03 22:50:08,525 - KawasakiScraper - INFO - Successfully scraped specifications for kx-65 2025
+2025-03-03 22:50:10,527 - KawasakiScraper - INFO - Scraping specs for: kx-85 2025
+2025-03-03 22:50:14,011 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-85
+2025-03-03 22:50:14,011 - KawasakiScraper - INFO - Successfully scraped specifications for kx-85 2025
+2025-03-03 22:50:16,016 - KawasakiScraper - INFO - Scraping specs for: kx-112 2025
+2025-03-03 22:50:23,455 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-112
+2025-03-03 22:50:23,455 - KawasakiScraper - INFO - Successfully scraped specifications for kx-112 2025
+2025-03-03 22:50:25,455 - KawasakiScraper - INFO - Scraping specs for: kx-250 2025
+2025-03-03 22:50:28,939 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-250
+2025-03-03 22:50:28,940 - KawasakiScraper - INFO - Successfully scraped specifications for kx-250 2025
+2025-03-03 22:50:30,950 - KawasakiScraper - INFO - Scraping specs for: kx-250 2024
+2025-03-03 22:50:38,865 - KawasakiScraper - INFO - Successfully scraped specs for 2024 kx-250
+2025-03-03 22:50:38,866 - KawasakiScraper - INFO - Successfully scraped specifications for kx-250 2024
+2025-03-03 22:50:40,873 - KawasakiScraper - INFO - Scraping specs for: kx-450 2025
+2025-03-03 22:50:48,248 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-450
+2025-03-03 22:50:48,248 - KawasakiScraper - INFO - Successfully scraped specifications for kx-450 2025
+2025-03-03 22:50:50,260 - KawasakiScraper - INFO - Scraping specs for: kx-450 2024
+2025-03-03 22:50:57,186 - KawasakiScraper - INFO - Successfully scraped specs for 2024 kx-450
+2025-03-03 22:50:57,186 - KawasakiScraper - INFO - Successfully scraped specifications for kx-450 2024
+2025-03-03 22:50:59,194 - KawasakiScraper - INFO - Scraping specs for: kx-450sr 2025
+2025-03-03 22:51:05,983 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-450sr
+2025-03-03 22:51:05,983 - KawasakiScraper - INFO - Successfully scraped specifications for kx-450sr 2025
+2025-03-03 22:51:07,989 - KawasakiScraper - INFO - Scraping specs for: kx-250x 2025
+2025-03-03 22:51:11,502 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-250x
+2025-03-03 22:51:11,502 - KawasakiScraper - INFO - Successfully scraped specifications for kx-250x 2025
+2025-03-03 22:51:13,516 - KawasakiScraper - INFO - Scraping specs for: kx-450x 2025
+2025-03-03 22:51:16,991 - KawasakiScraper - INFO - Successfully scraped specs for 2025 kx-450x
+2025-03-03 22:51:16,991 - KawasakiScraper - INFO - Successfully scraped specifications for kx-450x 2025
+2025-03-03 22:51:18,997 - KawasakiScraper - INFO - Completed processing KX line
+2025-03-03 22:51:22,027 - KawasakiScraper - INFO - Data saved to data\raw\kawasaki_full_specs.json
+2025-03-03 22:51:22,030 - KawasakiScraper - INFO - Data saved to data\raw\kawasaki_full_specs.csv
+2025-03-03 22:51:22,030 - KawasakiScraper - INFO - 
+Scraping Summary:
+2025-03-03 22:51:22,031 - KawasakiScraper - INFO - ----------------------------------------
+2025-03-03 22:51:22,031 - KawasakiScraper - INFO - Total models found: 77
+2025-03-03 22:51:22,031 - KawasakiScraper - INFO - Successfully scraped: 76
+2025-03-03 22:51:22,031 - KawasakiScraper - INFO - Failed to scrape: 1
+2025-03-03 22:51:22,031 - KawasakiScraper - INFO - Success rate: 98.70%
+2025-03-03 22:51:22,031 - KawasakiScraper - INFO - Scraping process completed!
